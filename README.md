@@ -2,6 +2,10 @@
 
 Unified beverage knowledge hub — cocktails, wine, beer, whiskey, tea, coffee, and sake in one package. Part of the [FYIPedia](https://fyipedia.com) ecosystem.
 
+<p align="center">
+  <img src="demo.gif" alt="drinkfyi demo — unified beverage search across 7 sites" width="800">
+</p>
+
 ## Install
 
 ```bash
