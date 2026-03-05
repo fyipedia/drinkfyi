@@ -82,29 +82,43 @@ The Beverage FYI Family spans 7 specialized sites covering the world's major dri
 
 CocktailFYI covers 636 cocktail recipes across 15 families (Sour, Daisy, Fizz, Collins, Highball, Old-Fashioned, Martini, Manhattan, Negroni, Flip, Julep, Toddy, Punch, Tiki, Shooter). Each recipe includes precise measurements, calculated ABV, estimated calories, flavor profiles, required glassware, and garnish specifications. The cocktailfyi package includes a local computation engine for ABV and calorie calculations without API calls.
 
+Learn more: [Browse 636 Cocktail Recipes](https://cocktailfyi.com/cocktail/) · [Cocktail Ingredient Guide](https://cocktailfyi.com/ingredient/)
+
 ### Wine (VinoFYI)
 
 VinoFYI catalogs wines across 6 types (Red, White, Rose, Sparkling, Fortified, Dessert) with 777 grape varieties, wine regions organized by appellation system, wineries, and 230 expert guides. The database contains 741K records covering terroir characteristics, food pairings, and vintage information.
+
+Learn more: [Wine Types Guide](https://vinofyi.com/type/) · [Browse 777 Grape Varieties](https://vinofyi.com/grape/)
 
 ### Beer (BeerFYI)
 
 BeerFYI follows the BJCP (Beer Judge Certification Program) style guidelines with 112 beer styles, 82 hop varieties with alpha acid profiles, 41 malts with SRM color values, and 29 yeast strains. Each style includes defined parameters for IBU, SRM, ABV, OG/FG ranges, and recommended ingredients.
 
+Learn more: [Browse 112 Beer Styles](https://beerfyi.com/style/) · [Hop Variety Profiles](https://beerfyi.com/hop/)
+
 ### Coffee (BrewFYI)
 
 BrewFYI covers 72 coffee varieties with genetic lineage (Arabica, Robusta, and hybrids), 20 origin countries with altitude and harvest data, and 21 brew methods with optimal extraction parameters. Guides cover processing methods (washed, natural, honey, anaerobic), roast profiling, and SCA cupping protocols.
+
+Learn more: [Coffee Varieties Database](https://brewfyi.com/variety/) · [21 Brew Methods](https://brewfyi.com/method/)
 
 ### Whiskey (WhiskeyFYI)
 
 WhiskeyFYI spans 80 whiskey expressions across 7 countries (Scotland, USA, Ireland, Japan, Canada, India, Taiwan) and 13 regions. Each expression includes type classification, cask information, age statement, ABV, and detailed tasting notes. The database covers legal definitions for Scotch, Bourbon, Tennessee, Rye, and Japanese whisky.
 
+Learn more: [Browse Whiskey Types](https://whiskeyfyi.com/type/) · [Explore 13 Whiskey Regions](https://whiskeyfyi.com/region/)
+
 ### Tea (TeaFYI)
 
 TeaFYI covers 60 tea varieties organized by oxidation level across 7 categories (Green, White, Yellow, Oolong, Black, Pu-erh, Herbal), 15 origin countries, and 15 teaware items. Each tea includes processing method, caffeine content, optimal brewing parameters (temperature, steep time, leaf ratio), and flavor descriptors.
 
+Learn more: [Browse Tea Categories](https://teafyi.com/category/) · [Teaware Guide](https://teafyi.com/teaware/)
+
 ### Sake (NihonshuFYI)
 
 NihonshuFYI catalogs 80 sake expressions with the tokutei meishoshu (special designation) classification system, 10 sake-specific rice varieties with shinpaku characteristics, and 50 breweries across Japan. Each sake includes grade, polishing ratio (seimaibuai), SMV (nihonshu-do), acidity, and tasting notes.
+
+Learn more: [Sake Grade System](https://nihonshufyi.com/grade/) · [Brewery Profiles](https://nihonshufyi.com/brewery/)
 
 ## Command-Line Interface
 
