@@ -27,7 +27,7 @@ wheels = [
 
 [[package]]
 name = "beerfyi"
-version = "0.1.0"
+version = "0.1.2"
 source = { editable = "../beerfyi" }
 
 [package.metadata]
@@ -53,7 +53,7 @@ dev = [
 
 [[package]]
 name = "brewfyi"
-version = "0.1.0"
+version = "0.1.2"
 source = { editable = "../brewfyi" }
 
 [package.metadata]
@@ -100,7 +100,7 @@ wheels = [
 
 [[package]]
 name = "cocktailfyi"
-version = "0.1.0"
+version = "0.1.2"
 source = { editable = "../cocktailfyi" }
 
 [package.metadata]
@@ -135,7 +135,7 @@ wheels = [
 
 [[package]]
 name = "drinkfyi"
-version = "0.1.0"
+version = "0.1.1"
 source = { editable = "." }
 
 [package.optional-dependencies]
@@ -455,7 +455,7 @@ wheels = [
 
 [[package]]
 name = "nihonshufyi"
-version = "0.1.0"
+version = "0.1.2"
 source = { editable = "../nihonshufyi" }
 
 [package.metadata]
@@ -582,7 +582,7 @@ wheels = [
 
 [[package]]
 name = "teafyi"
-version = "0.1.0"
+version = "0.1.2"
 source = { editable = "../teafyi" }
 
 [package.metadata]
@@ -686,7 +686,7 @@ wheels = [
 
 [[package]]
 name = "vinofyi"
-version = "0.1.0"
+version = "0.1.2"
 source = { editable = "../vinofyi" }
 
 [package.metadata]
@@ -712,7 +712,7 @@ dev = [
 
 [[package]]
 name = "whiskeyfyi"
-version = "0.1.0"
+version = "0.1.2"
 source = { editable = "../whiskeyfyi" }
 
 [package.metadata]

@@ -1,43 +1,35 @@
-# drinkfyi — Interactive Python REPL Demo
+# drinkfyi — Python Beverage Hub Demo
 Output demo.gif
 
-Set FontSize 14
-Set Width 920
-Set Height 620
+Set FontSize 20
+Set Width 1000
+Set Height 580
 Set Shell "zsh"
 Set Theme "Catppuccin Mocha"
 Set TypingSpeed 30ms
-Set Padding 20
+Set Padding 24
 
-# Install + REPL in one command (uv creates temp env)
 Type "uv run --with drinkfyi python3"
 Enter
-Sleep 2.5s
+Sleep 2s
 
-# Import and check available clients
 Type "from drinkfyi import available_clients, get_client"
 Enter
-Sleep 1.5s
+Sleep 1s
 
 Type "available_clients()"
 Enter
 Sleep 1.5s
 
-# Cross-beverage search: cocktails
+Type "# Cross-beverage search"
+Enter
+Sleep 0.5s
+
 Type "c = get_client('cocktail')"
 Enter
 Sleep 1s
 
 Type "c.search('negroni')"
-Enter
-Sleep 2.5s
-
-# Cross-beverage search: wine
-Type "w = get_client('wine')"
-Enter
-Sleep 1s
-
-Type "w.search('merlot')"
 Enter
 Sleep 2.5s
 
